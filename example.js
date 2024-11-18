@@ -10,3 +10,6 @@ function greet(name) {
 greet("Hello")
 
 //Viewing the changes
+//Now i'm calling the function
+
+greet("World")
