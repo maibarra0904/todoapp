@@ -8,3 +8,5 @@ function greet(name) {
 
 //Calling the function
 greet("Hello")
+
+//Viewing the changes
